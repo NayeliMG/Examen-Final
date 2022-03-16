@@ -1,7 +1,5 @@
 # Examen-Final
 Nayeli Mamallacta ha creado un nuevo repositorio para el Examen Final de Bioinformática
-# GBI6_ExamenParcial1
-Creación de un nuevo repositorio para el Examen Parcial 1
 # DATOS PERSONALES
 - Nayeli Gladys Mamallacta Grefa
 - C.I 1550014029
